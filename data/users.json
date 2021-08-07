@@ -9,5 +9,16 @@
         "id": 1,
         "dateCreated": "2021-04-08T05:33:05.184Z",
         "dateUpdated": "2021-04-08T05:33:05.184Z"
+    },
+    {
+        "title": "Mr",
+        "firstName": "GODWIN",
+        "lastName": "Nnabuchi",
+        "email": "piousugwu@gmail.com",
+        "role": "Admin",
+        "password": "Na68()ma",
+        "id": 2,
+        "dateCreated": "2021-08-07T10:48:04.019Z",
+        "dateUpdated": "2021-08-07T10:48:04.019Z"
     }
 ]
